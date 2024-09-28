@@ -1,0 +1,27 @@
+<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Rectangle for the Interface -->
+  <rect x="10" y="10" width="280" height="380" rx="20" ry="20" fill="none" stroke="red" stroke-width="5"/>
+
+  <!-- Header Section for Management Title -->
+  <rect x="10" y="10" width="280" height="60" fill="none" stroke="red" stroke-width="3"/>
+  <text x="40" y="45" font-family="Arial" font-size="20" fill="red">Management</text>
+
+  <!-- Task List Section -->
+  <rect x="20" y="80" width="260" height="200" fill="none" stroke="red" stroke-width="3"/>
+
+  <!-- Individual Task Boxes -->
+  <rect x="30" y="100" width="240" height="30" fill="none" stroke="red" stroke-width="2"/>
+  <rect x="30" y="140" width="240" height="30" fill="none" stroke="red" stroke-width="2"/>
+  <rect x="30" y="180" width="240" height="30" fill="none" stroke="red" stroke-width="2"/>
+  <rect x="30" y="220" width="240" height="30" fill="none" stroke="red" stroke-width="2"/>
+
+  <!-- Footer Section for Controls -->
+  <rect x="10" y="320" width="280" height="60" fill="none" stroke="red" stroke-width="3"/>
+
+  <!-- Footer Buttons -->
+  <rect x="40" y="340" width="80" height="30" fill="none" stroke="red" stroke-width="2"/>
+  <text x="55" y="360" font-family="Arial" font-size="15" fill="red">Add</text>
+
+  <rect x="180" y="340" width="80" height="30" fill="none" stroke="red" stroke-width="2"/>
+  <text x="195" y="360" font-family="Arial" font-size="15" fill="red">Remove</text>
+</svg>

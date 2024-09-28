@@ -1,0 +1,24 @@
+<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Rectangle for Web Application Window -->
+  <rect x="10" y="10" width="280" height="380" rx="20" ry="20" fill="none" stroke="yellow" stroke-width="5"/>
+
+  <!-- Header Bar Outline -->
+  <rect x="10" y="10" width="280" height="40" fill="none" stroke="yellow" stroke-width="3"/>
+
+  <!-- Minimize, Maximize, and Close Buttons -->
+  <circle cx="30" cy="30" r="5" fill="none" stroke="yellow" stroke-width="2"/>
+  <circle cx="50" cy="30" r="5" fill="none" stroke="yellow" stroke-width="2"/>
+  <circle cx="70" cy="30" r="5" fill="none" stroke="yellow" stroke-width="2"/>
+
+  <!-- Main Content Area Outline -->
+  <rect x="20" y="60" width="260" height="270" fill="none" stroke="yellow" stroke-width="3"/>
+
+  <!-- Placeholder for Footer or Navigation -->
+  <rect x="10" y="340" width="280" height="40" fill="none" stroke="yellow" stroke-width="3"/>
+
+  <!-- Vertical Menu Bars inside Main Content Area -->
+  <rect x="40" y="80" width="20" height="240" fill="none" stroke="yellow" stroke-width="2"/>
+  <rect x="80" y="80" width="20" height="240" fill="none" stroke="yellow" stroke-width="2"/>
+  <rect x="120" y="80" width="20" height="240" fill="none" stroke="yellow" stroke-width="2"/>
+  <rect x="160" y="80" width="20" height="240" fill="none" stroke="yellow" stroke-width="2"/>
+</svg>

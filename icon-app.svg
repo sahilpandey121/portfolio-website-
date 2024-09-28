@@ -1,0 +1,26 @@
+<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Body of the Emulator Outline -->
+  <rect x="10" y="10" width="280" height="380" rx="20" ry="20" fill="none" stroke="rgb(31, 81, 255)" stroke-width="5"/>
+
+  <!-- Screen Outline -->
+  <rect x="40" y="40" width="220" height="120" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+
+  <!-- D-Pad Outline -->
+  <rect x="60" y="200" width="50" height="20" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+  <rect x="60" y="230" width="50" height="20" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+  <rect x="45" y="215" width="20" height="50" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+  <rect x="90" y="215" width="20" height="50" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+
+  <!-- Action Buttons Outline -->
+  <circle cx="220" cy="250" r="15" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+  <circle cx="250" cy="220" r="15" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+
+  <!-- Start and Select Buttons Outline -->
+  <rect x="130" y="300" width="40" height="10" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+  <rect x="180" y="300" width="40" height="10" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+
+  <!-- Speaker Dots Outline -->
+  <circle cx="150" cy="350" r="3" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+  <circle cx="170" cy="350" r="3" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+  <circle cx="190" cy="350" r="3" fill="none" stroke="rgb(31, 81, 255)" stroke-width="2"/>
+</svg>
